@@ -20,6 +20,10 @@ CHANNEL_USERNAME=os.getenv("CHANNEL_USERNAME")
 DOWNLAOD_PATH="downlaod"
 DATA_FILE_PATH = "data.json"
 DATE_FORMAT = "%Y%m%d-%H%M"
+LOAD_START_DATE = "20240627-1400"
+DURATION_LIMIT=660
+MIN_MSG_ID = 114
+DATA_FETCH_LIMIT=100
 
 proxy=("http", "127.0.0.1", 10808)
 
@@ -58,12 +62,10 @@ def audio_detail_update(audio:AudioDetail, data:dict):
         data["audio_info"][stored_detail_id] = audio.to_dict()
 
 def audio_detail_append(audio:AudioDetail, data:dict):
-    print('I am here 01', "msg_id:", audio.msg_id, type(audio.msg_id))
     if audio.msg_id in data["map_msg_id"]:
         audio.id = data["map_msg_id"][audio.msg_id]
         audio_detail_update(audio, data)
     else:
-        print('I am here 02')
         data["general_info"]["last_internal_id"] += 1
         audio.id = data["general_info"]["last_internal_id"]
         data["audio_info"][audio.id] = audio.to_dict()
@@ -83,7 +85,7 @@ data = load_json(DATA_FILE_PATH)
         
 async def get_msg_by_audio_detail(client:TelegramClient,chat, audio:AudioDetail):
 
-    msg = client.get_messages(chat, audio.msg_id)
+    msg = await client.get_messages(chat, ids=int(audio.msg_id))
     return msg
 
 async def downoad_audio_by_msg(msg:Message, file_path:str, file_name:str):
@@ -113,6 +115,8 @@ class AudioDetail:
         self.edit_date = self.get_edit_date(msg)
         self.mime_type = self.get_mime_type(msg)
         self.extension = self.get_extension()
+        self.size = self.get_size(msg)
+        self.document_id = self.get_document_id(msg)
     
     @property
     def id(self):
@@ -169,6 +173,12 @@ class AudioDetail:
         else:
             print("extension not found")
             return None
+    
+    def get_size(self, msg):
+        return msg.audio.size
+    
+    def get_document_id(self, msg):
+        return msg.audio.id
 
     def is_english_alnum(self, word):
         if word:
@@ -208,22 +218,25 @@ class AudioDetail:
         "message": self.message,
         "filename": self.filename,
         "mime_type": self.mime_type,
-        "edit_date": self.edit_date
+        "edit_date": self.edit_date,
+        "size" : self.size,
+        "document_id" : self.document_id
     }
 
         
 
 
 async def main():
-    internal_id = 1
     client = TelegramClient(SESSION_OBJ, API_ID, API_HASH, proxy=proxy)
     await client.start()
-    async for msg in client.iter_messages(CHANNEL_USERNAME, limit=6):
-        print(internal_id)
+    channel = await client.get_entity(CHANNEL_USERNAME)
+    async for msg in client.iter_messages(channel, min_id=MIN_MSG_ID, reverse=True, limit=DATA_FETCH_LIMIT):
+        if not msg.audio:
+            continue
         audio = AudioDetail(msg)
-        audio_detail_append(audio, data)
-        internal_id += 1
-
+        if audio.duration <= DURATION_LIMIT:
+            print(audio.filename)
+            audio_detail_append(audio, data)
 
     dump_json(DATA_FILE_PATH, data)
 
