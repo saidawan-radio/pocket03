@@ -1,0 +1,73 @@
+name: audio dl
+
+on:
+    workflow_dispatch:
+
+    # Run every 2 days at midnight UTC
+    schedule:
+    - cron: '0 0 */2 * *'
+
+jobs:
+    fetch-data:
+        runs-on: ubuntu-latest
+        environment: pocket01
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  # Important: Use the token to push back to the repo
+                  token: ${{ secrets.PAT_TOKEN }}
+              
+            - name: Fetch data.json from audio-data repo
+              env:
+                ORIGIN_DATA_URL: ${{ vars.ORIGIN_DATA_URL }}
+              run: wget -O data.json "${ORIGIN_DATA_URL}"
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.x"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install -r requirements.txt --upgrade pip
+
+            - name: Debug API_ID
+              env:
+                  API_ID: ${{ secrets.API_ID }}
+
+              run: |  
+                  echo "'${{ secrets.API_ID }}'"
+
+            - name: Run dl
+              env:
+                SESSION_STR: ${{ secrets.SESSION_STR }}
+                API_ID: ${{ secrets.API_ID }}
+                API_HASH: ${{ secrets.API_HASH }}
+                CHANNEL_USERNAME: ${{ vars.CHANNEL_USERNAME }}
+                DOWNLOAD_PATH: ${{ vars.DOWNLOAD_PATH }}
+                DOWNLOADED_DATA_FILE_PATH: ${{ vars.DOWNLOADED_DATA_FILE_PATH }}
+                DATE_FORMAT: ${{ vars.DATE_FORMAT }}
+                LOAD_START_DATE: ${{ vars.LOAD_START_DATE }}
+                DURATION_LIMIT: ${{ vars.DURATION_LIMIT }}
+                MIN_MSG_ID: ${{ vars.MIN_MSG_ID }}
+                DATA_FETCH_LIMIT: ${{ vars.DATA_FETCH_LIMIT }}
+                FILENAME_PATTERN: ${{ vars.FILENAME_PATTERN }}
+
+                REPO_OWNER : ${{ github.repository_owner }}
+                REPO_NAME : ${{ github.event.repository.name }}
+                REPO_BRANCH : ${{ vars.REPO_BRANCH }}
+
+              run: ./download.sh
+
+            - name: Commit and push changes
+              env:
+                  DOWNLOAD_PATH: ${{ vars.DOWNLOAD_PATH }}
+
+              run: |
+                  git config --local user.email "moohamadiann@gmail.com"
+                  git config --local user.name "Mohsen"
+                  git add ./$DOWNLOAD_PATH ./$DOWNLOADED_DATA_FILE_PATH
+                  git diff --quiet && git diff --staged --quiet || git commit -m "Fetch/Update audio detail"
+                  git push
