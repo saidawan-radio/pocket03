@@ -31,7 +31,7 @@ proxy=("http", "127.0.0.1", 10808)
 
 origin_data = load_json(conf.ORIGIN_DATA_FILE_PATH)
 
-create_and_fill_if_empty(conf.DOWNLOADED_DATA_FILE_PATH, conf.ORIGIN_JSON_DATA_FORM)
+create_and_fill_if_empty(conf.DOWNLOADED_DATA_FILE_PATH, conf.DOWNLOADED_JSON_DATA_FORMW)
 
 downloaded_data = load_json(conf.DOWNLOADED_DATA_FILE_PATH)
 
