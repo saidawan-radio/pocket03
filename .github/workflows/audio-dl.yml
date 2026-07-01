@@ -73,6 +73,7 @@ jobs:
             - name: convert files
               env:
                 DOWNLOAD_PATH: ${{ vars.DOWNLOAD_PATH }}
+                COVER_PATH_DIR: ${{ vars.COVER_PATH_DIR }}
               run: ./converter.sh
 
             - name: Commit and push changes
