@@ -395,10 +395,76 @@
             "document_id": 6046578495453141357,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/174_saidaWan_20250107-1004.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/174.jpg"
+        },
+        "175": {
+            "id": "175",
+            "title": "مەقامی اڵاوەیسی",
+            "performer": "Adnan Karim",
+            "duration": 175,
+            "date": "20250107-2115",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "342",
+            "message": "مەقامی ئەڵاوەیسی\n~>\nعەدنان کەریم",
+            "filename": "175_saidaWan_Adnan-Karim_20250107-2115.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250109-1513",
+            "size": 3,
+            "document_id": 5465512090804447919,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/175_saidaWan_Adnan-Karim_20250107-2115.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/175.jpg"
+        },
+        "176": {
+            "id": "176",
+            "title": "بە غەمزەی چاوی مەخمووری",
+            "performer": "Adnan Karim",
+            "duration": 234,
+            "date": "20250108-2040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "343",
+            "message": "بە غەمزەی چاوی مەخمووری سیاهی مەستی مەی کردین\nبە ماچی لێوی موستەغنی لە ئەنواعی مەزەی کردین\nترازا بەندی سوخمەی ئاڵی گوڵناری بە ئاهی من\nکە چی دەستی لە سەر دانا، لە سەیری باغی بەی کردین\nدیوانی ناری\n~>\nعەدنان کەریم",
+            "filename": "176_saidaWan_Adnan-Karim_20250108-2040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250109-1509",
+            "size": 4,
+            "document_id": 6048737850390746903,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/176_saidaWan_Adnan-Karim_20250108-2040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/176.jpg"
+        },
+        "177": {
+            "id": "177",
+            "title": null,
+            "performer": null,
+            "duration": 260,
+            "date": "20250109-0114",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "344",
+            "message": "",
+            "filename": "177_saidaWan_20250109-0114.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250109-0114",
+            "size": 9,
+            "document_id": 6050930388245683237,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/177_saidaWan_20250109-0114.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/177.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 174
+        "last_downloaded_internal_id": 177
     }
 }
