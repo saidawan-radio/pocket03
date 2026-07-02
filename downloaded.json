@@ -197,10 +197,76 @@
             "document_id": 5922319482352567508,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/165_saidaWan_20250102-2048.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/165.jpg"
+        },
+        "166": {
+            "id": "166",
+            "title": "هەناسەی نەی",
+            "performer": "Hasan Darzi",
+            "duration": 332,
+            "date": "20250103-0757",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "333",
+            "message": "هەناسەم گەر وەکوو نەی بوو سەدای نەی تازە هەر نادا\nدەڵێم خۆم هەست ئەکەم پیر بووم دڵم ئیجازە هەر نادا\nلە عیسای چاوەکەت ویستم تەماشایێکی مردوو کا\nدەنا ڤینۆسی ڕووت ئیزنێ بە ئەم ئیعجازە هەر نادا\nئاسۆ\n~>\nحەسەن دەرزی",
+            "filename": "166_saidaWan_Hasan-Darzi_20250103-0757.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250107-0429",
+            "size": 6,
+            "document_id": 6044276633500653243,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/166_saidaWan_Hasan-Darzi_20250103-0757.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/166.jpg"
+        },
+        "167": {
+            "id": "167",
+            "title": "ای مه من",
+            "performer": "MohammadReza Shajarian",
+            "duration": 315,
+            "date": "20250103-1126",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "334",
+            "message": "لاله رخ و زهره جبین ای صنم\n\nتا به تو دادم دل و دین\nبر همه کس گشته یقین\nمن زتو دوری نتوانم دیگر\nجانم وز تو صبوری نتوانم دیگر\n~>\nمحمدرضا شجریان",
+            "filename": "167_saidaWan_MohammadReza-Shajarian_20250103-1126.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250131-1229",
+            "size": 6,
+            "document_id": 6034894565205349037,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/167_saidaWan_MohammadReza-Shajarian_20250103-1126.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/167.jpg"
+        },
+        "168": {
+            "id": "168",
+            "title": null,
+            "performer": null,
+            "duration": 490,
+            "date": "20250104-1801",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "335",
+            "message": "",
+            "filename": "168_saidaWan_20250104-1801.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250104-1801",
+            "size": 8,
+            "document_id": 6039691360775181293,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/168_saidaWan_20250104-1801.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/168.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 165
+        "last_downloaded_internal_id": 168
     }
 }
