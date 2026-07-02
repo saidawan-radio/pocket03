@@ -659,10 +659,76 @@
             "document_id": 5776024087272887774,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/186_saidaWan_Hozan-serhat_20250113-0843.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/186.jpg"
+        },
+        "187": {
+            "id": "187",
+            "title": null,
+            "performer": null,
+            "duration": 305,
+            "date": "20250113-1700",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "357",
+            "message": "زۆر لە مێژە کە دەمەوێ\nبەیان بکەم دەردی دەروونم\nئەشقت بوو بە بروسکەیەك \nزامداری کرد دڵی پڕ خوێنم\nهۆ ئازیزم، هۆ دڵەکەم \nسوجدە بۆ دار و بەرد ئەبەم\nبۆ ئەوەی بە تۆ بگەم، دڵم مەشکێنە\n \n~>\nمیکائیل مەهابادی",
+            "filename": "187_saidaWan_20250113-1700.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250201-0937",
+            "size": 5,
+            "document_id": 5776024087272887765,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/187_saidaWan_20250113-1700.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/187.jpg"
+        },
+        "188": {
+            "id": "188",
+            "title": "نووری ڕوخسار",
+            "performer": "Hasan Zirak",
+            "duration": 166,
+            "date": "20250117-1540",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "358",
+            "message": "دوێ، شوکور مەردانە من ڕێم بردە ناو زولفی سیات\nتا بزانن خەڵکی موڵکی دڵ، قەڵای مێردانە شەو\nهەر لە مەغریب تا بەیانی بێ وچان دێت و دەچێ\nهەر لە دووی خورشیدی خاوەر وێڵ و سەرگەردانە شەو\nکامیل\n~>\nحەسەن زیرەک",
+            "filename": "188_saidaWan_Hasan-Zirak_20250117-1540.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250201-0920",
+            "size": 7,
+            "document_id": 5787190233443343045,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/188_saidaWan_Hasan-Zirak_20250117-1540.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/188.jpg"
+        },
+        "189": {
+            "id": "189",
+            "title": "ئاسمانی شین",
+            "performer": "Najmadin Gholami",
+            "duration": 458,
+            "date": "20250118-0402",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "359",
+            "message": "ڕۆژ ڕۆژی شادی کات بەیانیە\nتەبیعەت مەستی و بزەی جوانیە\nسەرانسەری چەم داری ژاڵەیە،\nئەو داوێن سەوزی سەرلق ئاڵەیە!\nئاسمانی شین و ئەستێرەکانی\nپێدەکەنین بۆ بەری بەیانی\nگوران\n~>\nنەجمەی غولامی",
+            "filename": "189_saidaWan_Najmadin-Gholami_20250118-0402.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250130-1914",
+            "size": 8,
+            "document_id": 5828005866002978883,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/189_saidaWan_Najmadin-Gholami_20250118-0402.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/189.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 186
+        "last_downloaded_internal_id": 189
     }
 }
