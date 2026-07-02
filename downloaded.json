@@ -461,10 +461,76 @@
             "document_id": 6050930388245683237,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/177_saidaWan_20250109-0114.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/177.jpg"
+        },
+        "178": {
+            "id": "178",
+            "title": "Delale",
+            "performer": " Rojda",
+            "duration": 297,
+            "date": "20250109-1834",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "347",
+            "message": "Dеlal tê hêla gund da lê\nDеlal tê ji mala wê da\nKеlеşa rеş li mil dе lê\nSîlaha rеş li mil dе\nHеyrana wê fikrê bim lo\nQurbana wê fikrê bim\nKurdistan еşq di dil dе lê\nKurdistan nеdîm di dil dе\nDеlalê, dеlalê , dеlalê\n~>\nRojda\nرۆجدا",
+            "filename": "178_saidaWan_Delale_Rojda_20250109-1834.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250109-1925",
+            "size": 5,
+            "document_id": 6051148611239025837,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/178_saidaWan_Delale_Rojda_20250109-1834.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/178.jpg"
+        },
+        "179": {
+            "id": "179",
+            "title": "Delalê",
+            "performer": "Sivan Perwer",
+            "duration": 278,
+            "date": "20250110-0900",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "348",
+            "message": "Li kolanê bajarê Ewropa\nLi keça Kurd rast hatim\nBê xwedî digeriya\nBi dil germê pêrgî min hat\nXûya bû li çara serê xwe digeriya\nMin go delalê delalê\nŞêrînê hevalê\nBê xwedî bê malê\nÇi digerî\n~>\nشوان پەروەر",
+            "filename": "179_saidaWan_Sivan-Perwer_20250110-0900.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250110-1455",
+            "size": 5,
+            "document_id": 6051148611239025830,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/179_saidaWan_Sivan-Perwer_20250110-0900.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/179.jpg"
+        },
+        "180": {
+            "id": "180",
+            "title": "Ghateh'ye Panjzarbi",
+            "performer": "Homayoun Shajarian & Mohammadreza Shajarian",
+            "duration": 113,
+            "date": "20250110-1639",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "349",
+            "message": "چشم رضا و مرحمت بر همه باز می‌کنی\nچون که به بخت ما رسد این همه ناز می‌کنی\nای که نیازموده‌ای صورت حال بی‌دلان\nعشق حقیقت است اگر حمل مجاز می‌کنی\n~>\nسعدی",
+            "filename": "180_saidaWan_Ghateh-ye-Panjzarbi_Homayoun-Shajarian-Mohammadreza-Shajarian_20250110-1639.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250110-2029",
+            "size": 5,
+            "document_id": 6023656358073603027,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/180_saidaWan_Ghateh-ye-Panjzarbi_Homayoun-Shajarian-Mohammadreza-Shajarian_20250110-1639.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/180.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 177
+        "last_downloaded_internal_id": 180
     }
 }
