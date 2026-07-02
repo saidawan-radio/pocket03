@@ -527,10 +527,76 @@
             "document_id": 6023656358073603027,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/180_saidaWan_Ghateh-ye-Panjzarbi_Homayoun-Shajarian-Mohammadreza-Shajarian_20250110-1639.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/180.jpg"
+        },
+        "181": {
+            "id": "181",
+            "title": "Avaz Bar Ghateh'ye Didar",
+            "performer": "Homayoun Shajarian & Mohammadreza Shajarian",
+            "duration": 535,
+            "date": "20250110-1643",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "350",
+            "message": "من چرا دل به تو دادم که دلم می‌شکنی\nیا چه کردم که نگه باز به من می‌نکنی\nدل و جانم به تو مشغول و نظر در چپ و راست\nتا ندانند حریفان که تو منظور منی\n~>\nسعدی",
+            "filename": "181_saidaWan_Avaz-Bar-Ghateh-ye-Didar_Homayoun-Shajarian-Mohammadreza-Shajarian_20250110-1643.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250112-1404",
+            "size": 22,
+            "document_id": 6023656358073603029,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/181_saidaWan_Avaz-Bar-Ghateh-ye-Didar_Homayoun-Shajarian-Mohammadreza-Shajarian_20250110-1643.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/181.jpg"
+        },
+        "182": {
+            "id": "182",
+            "title": "Astane janan",
+            "performer": "Mohammadreza Shajarian",
+            "duration": 367,
+            "date": "20250110-2050",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "351",
+            "message": "قد خمیدهٔ ما سهلت نماید اما\nبر چشمِ دشمنان تیر، از این کمان توان زد\nشد رهزنِ سلامت زلفِ تو وین عجب نیست\nگر راهزن تو باشی صد کاروان توان زد\n~>\nحافظ",
+            "filename": "182_saidaWan_Astane-janan_Mohammadreza-Shajarian_20250110-2050.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250112-1404",
+            "size": 6,
+            "document_id": 6037436700513276709,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/182_saidaWan_Astane-janan_Mohammadreza-Shajarian_20250110-2050.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/182.jpg"
+        },
+        "183": {
+            "id": "183",
+            "title": null,
+            "performer": null,
+            "duration": 348,
+            "date": "20250113-0806",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "353",
+            "message": "Hewlêr lorîka dayîkan\nHewlêr qêrîna zarokan\nHewlêr kilê çavê bûkan\nHewlêr bi xwîna şehîdan",
+            "filename": "183_saidaWan_20250113-0806.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250113-1027",
+            "size": 6,
+            "document_id": 5773772287459202578,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/183_saidaWan_20250113-0806.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/183.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 180
+        "last_downloaded_internal_id": 183
     }
 }
