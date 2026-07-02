@@ -791,10 +791,76 @@
             "document_id": 5800773187776027772,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/192_saidaWan_Naser-Razazi_20250122-0420.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/192.jpg"
+        },
+        "193": {
+            "id": "193",
+            "title": "Gozashtano Raftane Peyvaste Live (Doori) [Leaving and Passing By]…",
+            "performer": "Bomrani",
+            "duration": 236,
+            "date": "20250129-1825",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "365",
+            "message": "",
+            "filename": "193_saidaWan_Bomrani_20250129-1825.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250129-1833",
+            "size": 10,
+            "document_id": 6021379510010648212,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/193_saidaWan_Bomrani_20250129-1825.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/193.jpg"
+        },
+        "194": {
+            "id": "194",
+            "title": "Dele Divaneh",
+            "performer": "Viguen",
+            "duration": 269,
+            "date": "20250129-1849",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "366",
+            "message": "با تو رفتم بی تو باز آمدم\nاز سر کوی او دل دیوانه\nپنهان کردم در خاکستر غم\nآن همه آرزو دل دیوانه\n~>\nویگن",
+            "filename": "194_saidaWan_Dele-Divaneh_Viguen_20250129-1849.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250130-1858",
+            "size": 12,
+            "document_id": 6012808121087436683,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/194_saidaWan_Dele-Divaneh_Viguen_20250129-1849.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/194.jpg"
+        },
+        "195": {
+            "id": "195",
+            "title": "ڕاستەی خیابان",
+            "performer": "Mikail Mahabadi",
+            "duration": 133,
+            "date": "20250130-1855",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "367",
+            "message": "ئەرێ ڕاستەی خیابان ئەی هاوار باخچەی میللەتی\nئەرێ کراسەکەی بەرت وەی هاوار چیتی شیرکەتی\nلای لای لای لای ئەی کەوێ گەردن بە خاڵی\nوای وای وای وای کوشتوومی باوەش و مناڵی \n~>\nمیکائیل مەهابادی",
+            "filename": "195_saidaWan_Mikail-Mahabadi_20250130-1855.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250130-2002",
+            "size": 3,
+            "document_id": 5825694898719823461,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/195_saidaWan_Mikail-Mahabadi_20250130-1855.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/195.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 192
+        "last_downloaded_internal_id": 195
     }
 }
