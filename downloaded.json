@@ -263,10 +263,76 @@
             "document_id": 6039691360775181293,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/168_saidaWan_20250104-1801.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/168.jpg"
+        },
+        "169": {
+            "id": "169",
+            "title": "مەقامی دیارم دەیری عیشقە",
+            "performer": "Adnan Karim",
+            "duration": 245,
+            "date": "20250105-2125",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "336",
+            "message": "دیارم دەیری عیشقە، جێ بە سووتن بێ لە وێ دەگرم\nکە من مشتێ چڵ و چێوم، بە چی بم، کەڵکی کێ دەگرم!\nنەگەییە دامەنی دەستی دوعا، جا دەبمە خاکی ڕێی\nتەریقەی گۆشەگیری بەردەدەم، ئەمجارە ڕێ دەگرم\nمەحوی\n~>\nعەدنان کەریم",
+            "filename": "169_saidaWan_Adnan-Karim_20250105-2125.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250105-2153",
+            "size": 4,
+            "document_id": 5465512090804447949,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/169_saidaWan_Adnan-Karim_20250105-2125.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/169.jpg"
+        },
+        "170": {
+            "id": "170",
+            "title": "من از روز ازل",
+            "performer": "MohammadReza Shajarian",
+            "duration": 443,
+            "date": "20250106-0812",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "337",
+            "message": "من از روز ازل، دیوانه بودم\nدیوانه روی تو، سرگشته کوی تو\nسرخوش از باده مستانه بودم\nدر عشق و مستی، افسانه بودم\nرهی معیری\n~>\nمحمدرضا شجریان",
+            "filename": "170_saidaWan_MohammadReza-Shajarian_20250106-0812.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250106-1259",
+            "size": 8,
+            "document_id": 6044276633500653233,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/170_saidaWan_MohammadReza-Shajarian_20250106-0812.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/170.jpg"
+        },
+        "171": {
+            "id": "171",
+            "title": "حەسەن زیرەک - باغی زەمبیل | Hassan zirak - Bakhy zambil",
+            "performer": null,
+            "duration": 620,
+            "date": "20250106-1006",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "338",
+            "message": "",
+            "filename": "171_saidaWan_20250106-1006.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250822-1516",
+            "size": 10,
+            "document_id": 6044084485253766666,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/171_saidaWan_20250106-1006.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/171.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 168
+        "last_downloaded_internal_id": 171
     }
 }
