@@ -1781,10 +1781,76 @@
             "document_id": 5911235662115247875,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/237_saidaWan_Adnan-Karim_20250227-1830.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/237.jpg"
+        },
+        "238": {
+            "id": "238",
+            "title": "Xeribi",
+            "performer": "Ciwan Haco",
+            "duration": 177,
+            "date": "20250227-2300",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "419",
+            "message": "Birîndar kirim xerîbiyê\nEz ji xwe re kuştim xerîbiyê\nMin bese ji vê eziyetiyê\nBerêm kete vê beriyê\n\nVê buharê gul pişkivîn\nLi çol û çiya û dilê birîn\nDil û navêm dike ew girîn \nKanî welat û ala rengîn? \n~>\nCiwan Haco",
+            "filename": "238_saidaWan_Xeribi_Ciwan-Haco_20250227-2300.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250301-1230",
+            "size": 3,
+            "document_id": 5911235662115248029,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/238_saidaWan_Xeribi_Ciwan-Haco_20250227-2300.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/238.jpg"
+        },
+        "239": {
+            "id": "239",
+            "title": "Boni Bahar ",
+            "performer": "Najmadin Gholami ",
+            "duration": 634,
+            "date": "20250228-1840",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "420",
+            "message": "بۆنی بەهار -نه‌جمه",
+            "filename": "239_saidaWan_Boni-Bahar-_Najmadin-Gholami-_20250228-1840.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1956",
+            "size": 11,
+            "document_id": 5913289966447761456,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/239_saidaWan_Boni-Bahar-_Najmadin-Gholami-_20250228-1840.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/239.jpg"
+        },
+        "240": {
+            "id": "240",
+            "title": "ئەمن هەربا وەفایی تۆم",
+            "performer": "Hasan Darzi",
+            "duration": 448,
+            "date": "20250228-1900",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "421",
+            "message": "شەوانە تا بەیانی من غەمینم\nلەشیرینی خەویش دا تۆ دەبینم\nمەڕۆ لام وەرەوە ڕۆحی شیرینم\n\nئەمن شێتم لە دوای تۆ\nئیتر وێڵم لە دوای تۆ\nئیتر خاکم لە پای تۆ\n~>\nحەسەن دەرزی",
+            "filename": "240_saidaWan_Hasan-Darzi_20250228-1900.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1955",
+            "size": 8,
+            "document_id": 5915873621204538907,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/240_saidaWan_Hasan-Darzi_20250228-1900.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/240.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 237
+        "last_downloaded_internal_id": 240
     }
 }
