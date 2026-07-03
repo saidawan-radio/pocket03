@@ -1715,10 +1715,76 @@
             "document_id": 5904260819910138007,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/234_saidaWan_20250226-0500.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/234.jpg"
+        },
+        "235": {
+            "id": "235",
+            "title": "Deltangi",
+            "performer": "Hani Mojtahedi",
+            "duration": 243,
+            "date": "20250226-2232",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "416",
+            "message": "",
+            "filename": "235_saidaWan_Deltangi_Hani-Mojtahedi_20250226-2232.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1953",
+            "size": 7,
+            "document_id": 5776042212034875047,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/235_saidaWan_Deltangi_Hani-Mojtahedi_20250226-2232.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/235.jpg"
+        },
+        "236": {
+            "id": "236",
+            "title": "شەپۆلی شێت",
+            "performer": "Hani Mojtahedi",
+            "duration": 420,
+            "date": "20250227-0831",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "417",
+            "message": "من شەپۆلی شێت باوەشت کەنار\nدێمە کەنارت مەست و بێ قەرار\nتۆ بای سەرکەشی ناکەویتە داو\nتا دێم ڕاتبگرم هەڵ ئەکەی بە تاو \n~>\nهانی موجتەهیدی",
+            "filename": "236_saidaWan_Hani-Mojtahedi_20250227-0831.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1954",
+            "size": 8,
+            "document_id": 5913289966447761306,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/236_saidaWan_Hani-Mojtahedi_20250227-0831.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/236.jpg"
+        },
+        "237": {
+            "id": "237",
+            "title": "ڕیشەی دڵ",
+            "performer": "Adnan Karim",
+            "duration": 505,
+            "date": "20250227-1830",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "418",
+            "message": "ڕەگ و ڕیشەی دڵم هەر دەنگ و ناڵەی عیشقی تۆی لێ دێ\nبڵێ موتریب، وەرە ساقی، سەراپا بوومە تاری تۆ\n\nلەلایێ تارە داوی دڵ، لەلایێ مارە قەسدی سەر\nچ سیحرێکە؟ عەجەب ماوم لە زوڵفی تار و ماری تۆ\nوەفایی\n~>\nعەدنان کەریم",
+            "filename": "237_saidaWan_Adnan-Karim_20250227-1830.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250301-1324",
+            "size": 13,
+            "document_id": 5911235662115247875,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/237_saidaWan_Adnan-Karim_20250227-1830.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/237.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 234
+        "last_downloaded_internal_id": 237
     }
 }
