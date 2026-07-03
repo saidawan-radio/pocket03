@@ -1649,10 +1649,76 @@
             "document_id": 5901996753669853966,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/231_saidaWan_Nalay-BolBol_Adnan-Karim_20250224-0900.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/231.jpg"
+        },
+        "232": {
+            "id": "232",
+            "title": "Keras Zarde",
+            "performer": "Naser Razazi",
+            "duration": 295,
+            "date": "20250224-1904",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "413",
+            "message": "",
+            "filename": "232_saidaWan_Keras-Zarde_Naser-Razazi_20250224-1904.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1952",
+            "size": 8,
+            "document_id": 5899772922683200784,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/232_saidaWan_Keras-Zarde_Naser-Razazi_20250224-1904.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/232.jpg"
+        },
+        "233": {
+            "id": "233",
+            "title": "خەوی سەوز",
+            "performer": "~>",
+            "duration": 151,
+            "date": "20250225-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "414",
+            "message": "بۆ.. بێ لەو چاوە کاڵانەت\nچی شک ئەبەم\nلێم مەپرسە.. بۆچی هاتووم\nوەک کۆترێکی لانەواز\nتەرەو ماندووم\nهاتووم لە ناو چاوەکانتا\nتێر تێر بنووم\n~>",
+            "filename": "233_saidaWan_20250225-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1907",
+            "size": 7,
+            "document_id": 5906652438089176506,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/233_saidaWan_20250225-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/233.jpg"
+        },
+        "234": {
+            "id": "234",
+            "title": "مەیگێڕ",
+            "performer": "Mamlê",
+            "duration": 328,
+            "date": "20250226-0500",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "415",
+            "message": "مەیگێڕ وەرەقۆڵ هەڵکە گڵێنەت بێنە…",
+            "filename": "234_saidaWan_20250226-0500.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-2002",
+            "size": 6,
+            "document_id": 5904260819910138007,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/234_saidaWan_20250226-0500.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/234.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 231
+        "last_downloaded_internal_id": 234
     }
 }
