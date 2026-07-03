@@ -1517,10 +1517,76 @@
             "document_id": 5877503126411417246,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/225_saidaWan_Were_Ciwan-Haco_20250217-2040.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/225.jpg"
+        },
+        "226": {
+            "id": "226",
+            "title": "خۆزگە",
+            "performer": "Adnan Karim",
+            "duration": 272,
+            "date": "20250218-2040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "406",
+            "message": "خۆزگە داری خۆزیا بەر دار ئەبوو\nیار لە حاڵم هەردەم ئاگادار ئەبوو\nبێ سکاڵا هەر بەبێ ڕازو نیاز\nهەر بە خەندە دەردەکەم تیمار ئەبوو\n\nخۆزگە دەمزانی لەبەر چی وادەکەی\nتیری موژگانت لە سینەم ڕادەکەی\nگەر لە تاو دەردی دەرونم یەک قەدەم\nبێم بەرەو رووت بۆ لەدەستم ڕادەکەیی\nبێدڵ\n~>\nعەدنان کەریم",
+            "filename": "226_saidaWan_Adnan-Karim_20250218-2040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250218-2135",
+            "size": 5,
+            "document_id": 5884345060853553399,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/226_saidaWan_Adnan-Karim_20250218-2040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/226.jpg"
+        },
+        "227": {
+            "id": "227",
+            "title": "یاران",
+            "performer": "Khayal",
+            "duration": 174,
+            "date": "20250220-2140",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "408",
+            "message": "ئەی یاران یاران، دۆس یاران بەیدێ\nیانەو نازارام، پێ نیشان دەیدێ\nئینجا ڕاحەتی جەستەی مەینەت بارەکەم\nتەسکین وە باڵای، پڕ جە خارەکەم\n~>\nکۆڕی خەیاڵ",
+            "filename": "227_saidaWan_Khayal_20250220-2140.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1907",
+            "size": 3,
+            "document_id": 5886639522577391100,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/227_saidaWan_Khayal_20250220-2140.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/227.jpg"
+        },
+        "228": {
+            "id": "228",
+            "title": "بۆ دەگری",
+            "performer": "Kani",
+            "duration": 208,
+            "date": "20250222-2300",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "409",
+            "message": "گوڵم نەتبینم بگری بۆ یارێ\nفرمێسک داڕێژی لە دوای نازدارێ\nنەک ئاسمانی چاوە جوانەکەت\nئەستێرەی گەشی هاوار ببارێ\nبۆ ئەگری گوڵم بۆ دڵت تەنگە\nئاسمانی ئێمە هەردوو یەک ڕەنگە\n~>\nکانی",
+            "filename": "228_saidaWan_Kani_20250222-2300.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1907",
+            "size": 4,
+            "document_id": 5897729016466512221,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/228_saidaWan_Kani_20250222-2300.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/228.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 225
+        "last_downloaded_internal_id": 228
     }
 }
