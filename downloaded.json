@@ -1451,10 +1451,76 @@
             "document_id": 5300897766854099574,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/222_saidaWan_Bochi-Ba-Tanya_Zakaria-Abdulla_20250215-0841.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/222.jpg"
+        },
+        "223": {
+            "id": "223",
+            "title": "حەبیبە",
+            "performer": "Adnan Karim",
+            "duration": 352,
+            "date": "20250215-2230",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "403",
+            "message": "حەبیبا دڵ گەلێ بێمارە بێ تۆ\nلەبەر دووریت لە ڕووح بێزارە بێ تۆ\nكە شادی دوژمن و غەم دۆستە قوربان\nجەفا یار و وەفا ئەغیارە بێ تۆ\nسافی\n~>\nعەدنان کەریم",
+            "filename": "223_saidaWan_Adnan-Karim_20250215-2230.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1907",
+            "size": 6,
+            "document_id": 5872999526784047796,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/223_saidaWan_Adnan-Karim_20250215-2230.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/223.jpg"
+        },
+        "224": {
+            "id": "224",
+            "title": "Hey Dîlberê",
+            "performer": "Ciwan Haco",
+            "duration": 294,
+            "date": "20250216-2040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "404",
+            "message": "Hay dîlberê, way dîlberê\nHey nazikê, way esmerê\nKa soz û peymana berê?\nBawer nakim hên vegerin\n\nHay dîlberê, way dîlberê\nTasa li ser zîv û zerê\nTe nabînim li ber pencerê\nXem û kula ji dil berê\n~>\nCiwan Haco",
+            "filename": "224_saidaWan_Ciwan-Haco_20250216-2040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250216-2046",
+            "size": 5,
+            "document_id": 5877503126411417248,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/224_saidaWan_Ciwan-Haco_20250216-2040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/224.jpg"
+        },
+        "225": {
+            "id": "225",
+            "title": "Were",
+            "performer": "Ciwan Haco",
+            "duration": 294,
+            "date": "20250217-2040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "405",
+            "message": "Were were\nWere were\nTe ez helandim keçkê ji xwere\nEv çend salin li heviya te me\nWe'z li hêviya dîtina te me\nEy hevalê\nÇav xezalê\nAx û ahîn û sed hewar\nMin bi sed lav û qêrinî\nDest gihande sîngên wê\n~>\nCiwan Haco",
+            "filename": "225_saidaWan_Were_Ciwan-Haco_20250217-2040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250217-2212",
+            "size": 5,
+            "document_id": 5877503126411417246,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/225_saidaWan_Were_Ciwan-Haco_20250217-2040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/225.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 222
+        "last_downloaded_internal_id": 225
     }
 }
