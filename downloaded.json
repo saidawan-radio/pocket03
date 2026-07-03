@@ -989,10 +989,76 @@
             "document_id": 5798539882091520801,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/201_saidaWan_Min-Digo-Mele_Aynur_20250202-0644.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/201.jpg"
+        },
+        "202": {
+            "id": "202",
+            "title": "Taman",
+            "performer": "Karim Kaban",
+            "duration": 441,
+            "date": "20250203-0903",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "374",
+            "message": "ئەی تەمەنی پڕ ئەسرینم ئەڕۆی ئاوڕ نادەیتەوە\nلەگەڵ هەموو هەنگاوێکدا لە عومری من ئەسڕێیتەوە\nخۆزگە منیش وەک پەپولە گشت تەمەنم وەرزێ بوایە\n~>\nکەریم کابان",
+            "filename": "202_saidaWan_Taman_Karim-Kaban_20250203-0903.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1921",
+            "size": 13,
+            "document_id": 5837028290916784114,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/202_saidaWan_Taman_Karim-Kaban_20250203-0903.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/202.jpg"
+        },
+        "203": {
+            "id": "203",
+            "title": "Do se shabe",
+            "performer": "Hadi Hadadi",
+            "duration": 534,
+            "date": "20250203-1150",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "375",
+            "message": "هر لحظه از غم می‌درد هجرت گریبان مرا\nدر خاک و در خون میکشد عشقت گریبان مرا \n~>\nهادی حدادی",
+            "filename": "203_saidaWan_Do-se-shabe_Hadi-Hadadi_20250203-1150.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250203-1334",
+            "size": 10,
+            "document_id": 5839066802654549225,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/203_saidaWan_Do-se-shabe_Hadi-Hadadi_20250203-1150.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/203.jpg"
+        },
+        "204": {
+            "id": "204",
+            "title": "سروه",
+            "performer": "Ahmad Lawa",
+            "duration": 424,
+            "date": "20250205-1433",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "377",
+            "message": "سروه - ئه‌حمه‌د لاوه",
+            "filename": "204_saidaWan_Ahmad-Lawa_20250205-1433.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1923",
+            "size": 7,
+            "document_id": 5845913135143195823,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/204_saidaWan_Ahmad-Lawa_20250205-1433.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/204.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 201
+        "last_downloaded_internal_id": 204
     }
 }
