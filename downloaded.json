@@ -1187,10 +1187,76 @@
             "document_id": 6012808121087436631,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/210_saidaWan_Saghareh-Hasti_Hayedeh_20250207-1708.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/210.jpg"
+        },
+        "211": {
+            "id": "211",
+            "title": "حەزرەتی یار",
+            "performer": "Mostafa Mohamadi",
+            "duration": 158,
+            "date": "20250209-2037",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "388",
+            "message": "حه‌زره‌تی یار بفه‌رموو له که‌نارێ بکه‌وم\nیا ده‌نا مه‌ردی خودا به‌ و مه‌که کارێ بکه‌وم\nشه‌رته حه‌یرانی که‌سێ بم له قه‌تاری یاران\nئه‌و له حه‌یرانێ بڕوا من له قه‌تارێ بکه‌وم\nعەبدوڵڵا گولابی\n~>\nموستەفا محەمەدی",
+            "filename": "211_saidaWan_Mostafa-Mohamadi_20250209-2037.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250209-2040",
+            "size": 3,
+            "document_id": 5854787984980710870,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/211_saidaWan_Mostafa-Mohamadi_20250209-2037.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/211.jpg"
+        },
+        "212": {
+            "id": "212",
+            "title": "مامە",
+            "performer": "خاڵۆ ناسر",
+            "duration": 659,
+            "date": "20250210-2130",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "391",
+            "message": "مەقام: هێند دڵم تەنگە\nگۆرانی: مامە گیانی مامە",
+            "filename": "212_saidaWan_20250210-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1927",
+            "size": 9,
+            "document_id": 5922326246926062951,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/212_saidaWan_20250210-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/212.jpg"
+        },
+        "213": {
+            "id": "213",
+            "title": "شبانگاهان",
+            "performer": "Taher Ghoraishi",
+            "duration": 264,
+            "date": "20250211-1740",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "393",
+            "message": "شبانگاهان تا حریم فلک چون زبانه کشد سوز آوازم\nشرر ریزد بی‌امان به دل ساکنان فلک ناله سازم\nشبانگاهان...\n\nطاهر قریشی",
+            "filename": "213_saidaWan_Taher-Ghoraishi_20250211-1740.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1908",
+            "size": 5,
+            "document_id": 5861489847654421960,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/213_saidaWan_Taher-Ghoraishi_20250211-1740.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/213.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 210
+        "last_downloaded_internal_id": 213
     }
 }
