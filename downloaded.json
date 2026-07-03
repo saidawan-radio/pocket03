@@ -1055,10 +1055,76 @@
             "document_id": 5845913135143195823,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/204_saidaWan_Ahmad-Lawa_20250205-1433.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/204.jpg"
+        },
+        "205": {
+            "id": "205",
+            "title": "من وەکو بولبول لە باخا",
+            "performer": "Mikael Mahabadi",
+            "duration": 291,
+            "date": "20250205-1438",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "378",
+            "message": "من وەکوو بولبول لە ناو باخا گەڕاوم بێ ژومار\nچڵ بە چڵ دیمەن بە دیمەن کاتی فەسڵی نەوبەهار\nدەمچنی تاک تاک گوڵاڵەی ئاڵ و بۆندار و دیار\nگشتی بێسوود بوو لە لام نەیبوو جوانی کوڵمی یار\nوەرە یا شیرین نیگار ئەی نەمامی ناو گوڵزار\n~>\nمیکائیل مەهابادی",
+            "filename": "205_saidaWan_Mikael-Mahabadi_20250205-1438.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1924",
+            "size": 5,
+            "document_id": 5852820898549077397,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/205_saidaWan_Mikael-Mahabadi_20250205-1438.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/205.jpg"
+        },
+        "206": {
+            "id": "206",
+            "title": "تەموور ",
+            "performer": "@saidaWan",
+            "duration": 149,
+            "date": "20250205-2051",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "381",
+            "message": "تەموور\n~>\nدەریا کاکەیی",
+            "filename": "206_saidaWan_saidaWan_20250205-2051.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250205-2159",
+            "size": 3,
+            "document_id": 5845913135143195986,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/206_saidaWan_saidaWan_20250205-2051.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/206.jpg"
+        },
+        "207": {
+            "id": "207",
+            "title": "Bi To Man Kasi Nadaram",
+            "performer": "Ramesh",
+            "duration": 317,
+            "date": "20250205-2225",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "382",
+            "message": "",
+            "filename": "207_saidaWan_Bi-To-Man-Kasi-Nadaram_Ramesh_20250205-2225.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250205-2225",
+            "size": 6,
+            "document_id": 5784993353376470268,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/musics/207_saidaWan_Bi-To-Man-Kasi-Nadaram_Ramesh_20250205-2225.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket03/master/covers/207.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 204
+        "last_downloaded_internal_id": 207
     }
 }
